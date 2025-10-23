@@ -10,15 +10,56 @@
 
 <br><br>
 
-# {{PROJECT_TITLE}}
+# Time Machine
 
-{{PROJECT_DESCRIPTION}}
+My very own GIT time machine.
 
 > [!TIP]
 >
 > ## ⭐ Star This Repository
 >
 > If you enjoy this project and my work, please consider supporting me giving a ⭐ star ⭐ to this repository.
+
+> [!NOTE]
+>
+> This repository is intended to be used for educational purposes only.
+
+> [!WARNING]
+>
+> Using this method on active projects may break the Git versioning system, resulting in chaos.
+>
+> For example, someone created a new file yesterday, but you may have edited it 7 years ago today!.
+>
+> That is an impractical scenario in a perfect world.
+
+<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+
+---
+
+# ⚒️ Usage
+
+- Add your changes
+
+```
+git add .
+```
+
+- Set new time for GIT to grab, then commit
+
+```
+GIT_AUTHOR_DATE='1987-10-24 7:37:00 +0530' GIT_COMMITTER_DATE='1987-10-24 7:37:00 +0530' git commit -m 'MESSAGE'
+
+```
+
+- Push new changes to the remote
+
+```
+git push
+```
+
+> [!WARNING]
+>
+> The second command must be on a single line, breaking it won't work as intended.
 
 <br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
