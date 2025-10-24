@@ -7,7 +7,7 @@ I retain final decision-making authority to ensure project coherence and quality
 
 ## 🚧 Maintainer
 
-**Primary Maintainer**: [I am Programmer][github]
+**Primary Maintainer**: [I am Programmer][iamprogrammer_github]
 
 - **Email**: [contact@iamprogrammer.lk][iamprogrammer_email]
 - **Website**: [iamprogrammer.lk][iamprogrammer_url]
@@ -70,7 +70,7 @@ and [Contributor License Agreement][contributor_license_agreement]. Be respectfu
 
 _This governance document may evolve as the project grows. Major changes will be announced in advance._
 
-[github]: https://github.com/iamprogrammerlk
+[iamprogrammer_github]: https://github.com/iamprogrammerlk
 [iamprogrammer_url]: https://iamprogrammer.lk
 [iamprogrammer_email]: mailto:contact@iamprogrammer.lk
 [issues]: /../../issues
